@@ -13,15 +13,7 @@ to fixation reported. The results were used in an Evolutionary
 Genetics lecture at Santa Clara University.
 
 Biological Specifications:
-Two alleles (I have a separate version that does three alleles)
-User-specified genotype frequencies
-    Thus user-specified allele frequencies
-    Default is 30% homozygous for "allele 1", 40% heterozygous, 30% homozygous for "allele 2"
-         Thus default allele frequencies are 50% allele 1, 50% allele 2
-    Default is to do 10 simulations each of population sizes 10, 100, and 1000
-    Random mating
-    Fixed population size
-    I.e., everyone survives, reproduces, and has two offspring
+Two alleles (I have a separate version that does three alleles). User-specified genotype frequencies. Thus user-specified allele frequencies. Default is 30% homozygous for "allele 1", 40% heterozygous, 30% homozygous for "allele 2". Thus default allele frequencies are 50% allele 1, 50% allele 2. Default is to do 10 simulations each of population sizes 10, 100, and 1000. Random mating. Fixed population size, i.e., everyone survives, reproduces, and has two offspring.
     
 Limitations and Possibilities:
     Currently, must change parameters in the code itself (though they are at least all globals at start of program).
