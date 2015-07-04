@@ -19,7 +19,7 @@ Limitations and Possibilities:
     Currently, must change parameters in the code itself (though they are at least all globals at start of program).
     Population sizes need to be even numbers, but this is not checked.
     Does not save results, just prints them to screen.
-    Would be nice if program predicted how long it would take for a given set of population sizes and replicates.
+    Would be nice if program predicted the run time, in advance, for a given set of population sizes and replicates.
     No GUI.
     No error handling to speak of.
     No unit tests.
