@@ -1,7 +1,7 @@
 # GeneticDrift
 C program that simulates genetic drift and determines fixation time of an allele. 
 Illustrates how impact of genetic drift depends on population size.
-The complete documentation is in the actual program file, but the key aspects are repeated here:
+The complete documentation is in the actual program file, but the key aspects are repeated here.
 
 Purpose:
 Generate data on how the impact of genetic drift varies 
@@ -19,6 +19,7 @@ Limitations and Possibilities:
     Currently, must change parameters in the code itself (though they are at least all globals at start of program).
     Population sizes need to be even numbers, but this is not checked.
     Does not save results, just prints them to screen.
+    Would be nice if program predicted how long it would take for a given set of population sizes and replicates.
     No GUI.
     No error handling to speak of.
     No unit tests.
